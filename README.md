@@ -11,7 +11,7 @@
 
   3、开启体验
 
-​	![观看](https://youtu.be/A3GUfqaiq40)
+[![video](https://cdn.jsdelivr.net/gh/samosxin/tututu@master/img/20230817151909.png)](https://youtube.com/shorts/-u6ReH517nU?feature=share)
 
 
 
@@ -40,7 +40,7 @@
 
   <img src="img/1.png" style="zoom:50%;" />
 
-<img src="/Users/xin/test/telegram-bot-packet/img/2.png" style="zoom:50%;" />
+<img src="img/2.png" style="zoom:50%;" />
 
 
 
