@@ -32,7 +32,8 @@
 
   6、抢红包
 
-  - 邀请假人协助 @samosxin @liangliang6789
+  - 邀请假人协助 @samosxin @pocketManMan
+    - <邀请进群即可>
 
 
 
