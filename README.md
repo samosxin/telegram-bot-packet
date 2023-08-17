@@ -10,8 +10,8 @@
   2、联系我上分体验
 
   3、开启体验
-
-[![video](https://cdn.jsdelivr.net/gh/samosxin/tututu@master/img/20230817151909.png)](https://youtube.com/shorts/-u6ReH517nU?feature=share)
+  
+  <img src="img/3.gif" style="zoom:50%;" />
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-![联系我](https://t.me/pocketManMan)
+[联系我](https://t.me/pocketManMan)
 
 
 
